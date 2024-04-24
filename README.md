@@ -8,6 +8,8 @@ Instructions:
     Space bar: Shoot
     Escape key: Quit
 
+    Run MAIN.py to start game
+
     Shoot the aliens! Nothing to it but to do it!
     Your score will increase per alien shot,
     and you will lose a life per alien missed.
