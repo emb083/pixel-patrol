@@ -3,6 +3,7 @@ Date: 4/20/2024 — 4/23/2024
 Project: CSC 132 Program 4, "Shoot the Spider... RELOADED"
 
 Instructions:
+
     Arrow keys (up and down): Move spaceman
     Space bar: Shoot
     Escape key: Quit
